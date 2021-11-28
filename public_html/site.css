@@ -1,0 +1,42 @@
+p {
+    font-family: tahoma, verdana;
+    font-size: 12px;
+    color: #222329;
+}
+
+p.header {
+    font-family: tahoma, verdana;
+    font-size: 18px;
+    color: #3b3f4c;
+}
+
+p.sign {
+    font-family: tahoma, verdana;
+    font-size: 11px;
+    color: #3b3f4c;
+}
+
+li {
+    font-family: tahoma, verdana;
+    font-size: 12px;
+    color: #222329;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-bottom: 4px;
+}
+
+a {
+    font-family: tahoma, verdana;
+    font-size: 12px;
+    color: #0077be;
+    font-weight: bold;
+}
+
+ul {
+    padding-left: 25px;
+    list-style-image: url('http://timeweb.com/ru/img/bullet.gif')
+}
+
+p.line {
+    border-top: 1px solid #dbdbdb;
+}
